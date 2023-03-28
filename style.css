@@ -1,0 +1,33 @@
+nav {
+    background-color: #09c184;
+    padding: 15px;
+}
+
+#sobre-mim {
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+#conhecimentos {
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+#contato {
+    text-decoration: none;
+    color: black;
+}
+
+#sobre-mim:hover {
+    background-color: #0a8967;
+}
+
+#conhecimentos:hover {
+    background-color: #0a8967;
+}
+
+#contato:hover {
+    background-color: #0a8967;
+}
